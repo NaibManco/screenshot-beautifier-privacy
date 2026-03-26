@@ -49,4 +49,4 @@ If this Privacy Policy changes, the "Last Updated" date will be revised in this 
 For privacy questions or support requests:
 
 - **Support URL:** https://naibmanco.github.io/screenshot-beautifier/support.html
-- **GitHub Issues:** https://github.com/NaibManco/screenshot-beautifier/issues
+- **GitHub Issues:** https://github.com/NaibManco/screenshot-beautifier-privacy/issues

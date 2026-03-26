@@ -2,7 +2,7 @@
 
 If you need help, please use one of the following channels:
 
-- **GitHub Issues (recommended):** https://github.com/NaibManco/screenshot-beautifier/issues
+- **GitHub Issues (recommended):** https://github.com/NaibManco/screenshot-beautifier-privacy/issues (please file bug reports here)
 
 ---
 
